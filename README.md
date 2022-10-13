@@ -8,15 +8,16 @@ ______________________________________________________________________
 OVERVIEW OF PROJECT 
 ______________________________________________________________________
 The objective of the module is to apply the python programming language, in particular the Pandas library to analyze student data. We filtered various .csv files containing student, and school data to collect pertinent information required to perform our analysis. We cleaned data by replacing certain values with NaN values. We then performed a throughout analysis to provide the following information to and compared the results before and after replacing values with NaN
-Summary of the all the schools in the district,
-School summary
-Top 5 performing schools 
-Bottom 5 performing schools 
-Average math score for each grade from each school 
-Average  reading score for each grade from each school
-Scores by school spending per student 
-Scores based on school size 
-Scores based on school type 	
+
+1) Summary of the all the schools in the district,
+2)School summary
+3)Top 5 performing schools 
+4)Bottom 5 performing schools 
+5)Average math score for each grade from each school 
+6)Average  reading score for each grade from each school
+7)cores by school spending per student 
+8)Scores based on school size 
+9)Scores based on school type 	
 ______________________________________________________________________
 RESULTS:
 ______________________________________________________________________
@@ -24,6 +25,9 @@ ______________________________________________________________________
 1) How is the district summary affected? 
 
 As seen in Figure 1 and Figure 2 below, the number of students decreases 
+
+![image](https://user-images.githubusercontent.com/103878061/195532005-d5b9bd5e-60e0-4b8e-bf11-2f6f491fb9d3.png)
+
 Figure 1 —District Summary before replacing THS values 
 Figure 2 —District Summary before replacing THS values
 
